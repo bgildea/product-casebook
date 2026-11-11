@@ -17,7 +17,9 @@ Start-ups needed credible reach to people who wanted to work at start-ups. Candi
 - Owned the whole loop: product, employer relationships, content and the tech underneath
 - Kept it running for eleven years alongside other roles
 
-<!-- Barry: add numbers if you have them (jobs posted, employers, subscribers, monthly visitors), the key product decisions you made, and why you closed it in 2022 -->
+## Why I closed it
+
+By 2022 the big platforms had taken the market. LinkedIn and the general boards had made start-up roles easy to find and cheap to post, which removed most of the reason a niche board existed, so I closed it.
 
 ## The marketplace questions this kind of product forces
 

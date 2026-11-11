@@ -28,7 +28,7 @@ Owners don't start succession planning because it is emotionally hard, legally c
 
 Option B frames Steward as a tool that makes advisers faster and lets them serve smaller clients profitably, rather than a replacement for them.
 
-<!-- Barry: add which option you chose to test first -->
+**Status:** not tested yet. Steward is at concept and pitch stage, so this decision stays open until there is customer evidence to settle it. Writing the options down early means the first conversations with owners, advisers or banks can be aimed at the question that matters most.
 
 ## Where AI fits
 

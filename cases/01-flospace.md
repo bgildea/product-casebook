@@ -19,8 +19,6 @@ Thailand runs on LINE. Instructors were already taking bookings through LINE cha
 - Interviewed instructors about how they actually ran their week, which surfaced the real competitor: a LINE group plus a spreadsheet
 - After a meeting with an investor connected to LINE's start-up programme, evaluated pivoting from a consumer marketplace to booking infrastructure delivered inside LINE (LIFF mini apps)
 
-<!-- Barry: add real numbers if you have them, e.g. instructors onboarded, bookings processed, interview count -->
-
 ## Decision record: marketplace vs LINE-native booking infrastructure
 
 | Option | For | Against |
@@ -31,7 +29,7 @@ Thailand runs on LINE. Instructors were already taking bookings through LINE cha
 
 The strongest argument for B: distribution already existed in LINE, so the product's job could be to make that channel less manual rather than to replace it.
 
-<!-- Barry: add which way you went and why -->
+**Outcome:** I paused FloSpace before committing to either direction. The evaluation was still worth doing. It showed the marketplace's real problem was distribution, not missing features, and more features on option A would not have fixed that.
 
 ## Lesson
 
