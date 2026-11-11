@@ -32,8 +32,6 @@ Stripe showed total revenue but not revenue per product in a form the treasurer 
 
 Revenue can be reported per product straight from Stripe, conference ticket totals are tracked in one place, and the duplicate subscriptions are resolved.
 
-<!-- Barry: add specifics if you can share them, e.g. duplicates resolved, hours saved per conference -->
-
 ## Skills this shows
 
 Turning a vague request into answerable questions, payments data hygiene, choosing the smallest fix that solves the real problem, working with non-technical stakeholders.
