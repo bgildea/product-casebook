@@ -35,3 +35,7 @@ Client names are left out where the work was under contract. Nothing here is con
 ## About me
 
 Barry Gildea, Bangkok (remote). Previously Technical Product Owner on AI chat and messaging products at American Express Global Business Travel. More on my [profile](https://github.com/bgildea).
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
