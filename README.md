@@ -14,6 +14,35 @@ I'm a Technical Product Owner and AI-native developer with 15+ years of shipping
 | 4 | [Revenue reporting a medical society could trust](cases/04-association-revenue-reporting.md) | Client engagement | Turning a vague reporting ask into a small, durable fix |
 | 5 | [Example PRD: human handoff in an AI chat assistant](cases/05-example-prd-ai-chat-handoff.md) | Illustrative spec | How I write a PRD for an AI feature, risks and evals included |
 
+## Which case to read
+
+Short on time? Pick the skill you're hiring for and follow the line.
+
+```mermaid
+flowchart LR
+    S1([Discovery and validation])
+    S2([Hard product calls: pivot or stop])
+    S3([Two-sided marketplaces])
+    S4([Turning a vague ask into delivery])
+    S5([AI product specs, risks and evals])
+
+    C1[1 · FloSpace]
+    C2[2 · Steward]
+    C3[3 · DublinStartupJobs]
+    C4[4 · Revenue reporting]
+    C5[5 · AI chat handoff PRD]
+
+    S1 --> C1
+    S1 --> C2
+    S2 --> C1
+    S2 --> C3
+    S3 --> C1
+    S3 --> C3
+    S4 --> C4
+    S5 --> C5
+    S5 --> C2
+```
+
 ## Templates
 
 The templates I actually use, cut down to what gets read:
