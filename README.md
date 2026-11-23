@@ -1,5 +1,7 @@
 # Product casebook
 
+![Cases: 5](https://img.shields.io/badge/cases-5-blue) ![Templates: 3](https://img.shields.io/badge/templates-PRD%20%7C%20story%20%7C%20decision-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 Product work rarely shows up in a Git history. This repo is where I keep the parts that usually stay in Confluence or a Google Drive folder: the problem framing, the specs, the trade-offs and what happened afterwards.
 
 I'm a Technical Product Owner and AI-native developer with 15+ years of shipping web products. Each case below is written up the same way so you can compare them quickly.
