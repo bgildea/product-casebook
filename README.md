@@ -1,6 +1,6 @@
 # Product casebook
 
-![Cases: 5](https://img.shields.io/badge/cases-5-blue) ![Templates: 3](https://img.shields.io/badge/templates-PRD%20%7C%20story%20%7C%20decision-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Cases: 6](https://img.shields.io/badge/cases-6-blue) ![Templates: 3](https://img.shields.io/badge/templates-PRD%20%7C%20story%20%7C%20decision-informational) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 Product work rarely shows up in a Git history. This repo is where I keep the parts that usually stay in Confluence or a Google Drive folder: the problem framing, the specs, the trade-offs and what happened afterwards.
 
@@ -15,6 +15,7 @@ I'm a Technical Product Owner and AI-native developer with 15+ years of shipping
 | 3 | [DublinStartupJobs.com: running a niche marketplace for 11 years](cases/03-dublinstartupjobs.md) | Founder, 2011 to 2022 | Two-sided marketplace basics, retention, knowing when to stop |
 | 4 | [Revenue reporting a medical society could trust](cases/04-association-revenue-reporting.md) | Client engagement | Turning a vague reporting ask into a small, durable fix |
 | 5 | [Example PRD: human handoff in an AI chat assistant](cases/05-example-prd-ai-chat-handoff.md) | Illustrative spec | How I write a PRD for an AI feature, risks and evals included |
+| 6 | [Example plan: running AI quality and adoption after launch](cases/06-example-ai-quality-and-adoption-plan.md) | Illustrative plan | Owning an AI feature after launch: eval routines, decision rules, cost and team adoption |
 
 ## Which case to read
 
@@ -27,12 +28,14 @@ flowchart LR
     S3([Two-sided marketplaces])
     S4([Turning a vague ask into delivery])
     S5([AI product specs, risks and evals])
+    S6([Leading AI quality and adoption])
 
     C1[1 · FloSpace]
     C2[2 · Steward]
     C3[3 · DublinStartupJobs]
     C4[4 · Revenue reporting]
     C5[5 · AI chat handoff PRD]
+    C6[6 · AI quality and adoption plan]
 
     S1 --> C1
     S1 --> C2
@@ -43,6 +46,8 @@ flowchart LR
     S4 --> C4
     S5 --> C5
     S5 --> C2
+    S5 --> C6
+    S6 --> C6
 ```
 
 ## Templates
